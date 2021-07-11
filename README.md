@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys, welcome to my GitHub! 💻
 
 <!--
 **LFBDev88/LFBDev88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
