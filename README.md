@@ -1,4 +1,6 @@
-### Hi guys, welcome to my GitHub! 💻
+## Hi guys, welcome to my GitHub! 👋
+
+I am a student of Information Systems 💻. Passionate about programming!
 
 <!--
 **LFBDev88/LFBDev88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
